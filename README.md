@@ -1,4 +1,3 @@
-```markdown
 # Computer Vision Lab: Practical Implementations
 
 A hands-on collection of computer vision algorithms and techniques implemented in Python.
